@@ -12,7 +12,7 @@ title                    : "Krish Arora"
 title_separator          : "-"
 name                     : &name "Krish Arora"
 description              : &description "Data Science & Applied Math @ 🧸"
-url                      : "https://krisharora.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kkrisha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KKrishA/krisharora.github.io"
 
