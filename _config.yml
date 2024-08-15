@@ -12,7 +12,11 @@ title                    : "Krish Arora"
 title_separator          : "-"
 name                     : &name "Krish Arora"
 description              : &description "Data Science & Applied Math @ 🧸"
+<<<<<<< HEAD
 url                      : https://kkrisha.github.io/krisharora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+=======
+url                      : https://krisharora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+>>>>>>> bb718e300002a4a821caf701d08e06f96a35f022
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
