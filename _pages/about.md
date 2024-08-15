@@ -32,8 +32,8 @@ Interests and Background
 </div>
 
 
-![CDSS](<../files/berk cdss.jpeg>)
-<img src="../files/qualcomm.jpg" alt="Qualcomm" style="width: 500px;"/>
-![GKA](../files/gka_no_border.jpg)
-![PBL](<../files/pbl cal.jpeg>)
-![ORE](../files/ore.jpeg)
+![CDSS](<../files/berk cdss.png>)
+<img src="../files/qualcomm.png" alt="Qualcomm" style="width: 500px;"/>
+![GKA](../files/gka_no_border.png)
+![PBL](<../files/pbl cal.png>)
+![ORE](../files/ore.png)
