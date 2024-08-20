@@ -14,8 +14,8 @@ main:
   - title: "Projects"
     url: /projects/    
     
-  - title: "Clubs & Interests"
-    url: /personal/
+  # - title: "Clubs & Interests"
+  #   url: /personal/
         
   - title: "Résumé"
     url: /resume/
