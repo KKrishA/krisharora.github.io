@@ -13,15 +13,15 @@ main:
 
   - title: "Projects"
     url: /projects/    
-    
-  # - title: "Clubs & Interests"
-  #   url: /personal/
         
   - title: "Résumé"
     url: /resume/
   
   - title: 'College Life'
     url: /my-life/
+
+      # - title: "Clubs & Interests"
+  #   url: /personal/
     
   # - title: "CV"
   #   url: /cv/
