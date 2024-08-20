@@ -4,7 +4,7 @@ title: "Résumé"
 permalink: resume/
 author_profile: true
 redirect_from:
-  - ../files/Resume.pdf
+  - /resume
 ---
 
 <nav>

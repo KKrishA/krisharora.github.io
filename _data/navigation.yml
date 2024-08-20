@@ -18,7 +18,7 @@ main:
     url: /personal/
         
   - title: "Résumé"
-    url: /files/Resume.pdf
+    url: /resume/
   
   - title: 'College Life'
     url: /my-life/
