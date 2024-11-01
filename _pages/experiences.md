@@ -17,7 +17,6 @@ redirect_from:
 </ul>
 </div>
 
-<hr style="border: 2px solid black;">
 <div style="background-color: #f7f7f7; padding: 10px;">
 <h2>🌐 <a href="https://gkadvisors.com/" style="text-decoration: none; color: inherit;">Global Key Advisors</a></h2>
 <i>Quantitative Analyst Intern</i>
