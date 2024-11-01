@@ -6,8 +6,19 @@ author_profile: true
 redirect_from:
   - /projects
 ---
+
 <hr style="border: 2px solid black;">
 <div style="background-color: white; padding: 10px;">
+<h2>📽️ <a href="https://gomomentus.com/" style="text-decoration: none; color: inherit;">Momentus Technologies</a></h2>
+<i>Product Manager Intern</i>
+<ul>
+  <li>Utilized Pendo to analyze comprehensive financial & usage metrics for 12 core products, leveraging data-driven insights to enhance product functionalities and optimize development costs, resulting in a 25% increase in user-generated revenue</li>
+  <li>Identified and presented ticketing/registration as expansion opportunities, resulting in a 40% increase in user acquisition</li>
+</ul>
+</div>
+
+<hr style="border: 2px solid black;">
+<div style="background-color: #f7f7f7; padding: 10px;">
 <h2>🌐 <a href="https://gkadvisors.com/" style="text-decoration: none; color: inherit;">Global Key Advisors</a></h2>
 <i>Quantitative Analyst Intern</i>
 <ul>
