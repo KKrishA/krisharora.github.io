@@ -27,7 +27,7 @@ redirect_from:
 </ul>
 </div>
 
-<div style="background-color: #f7f7f7; padding: 10px;">
+<div style="background-color: white; padding: 10px;">
 <h2>💻 <a href="https://academy.qualcomm.com/" style="text-decoration: none; color: inherit;">Qualcomm</a></h2>
 <i>Technology Analyst (Contract)</i>
 <ul>
@@ -36,7 +36,7 @@ redirect_from:
 </ul>
 </div>
 
-<div style="background-color: white; padding: 10px;">
+<div style="background-color: #f7f7f7; padding: 10px;">
 <h2>⚙️ <a href="https://www.ore.green/" style="text-decoration: none; color: inherit;">Outer Rim Exploration (ORE)</a></h2>
 <i>Machine Learning Intern</i>
 <ul>
@@ -46,7 +46,7 @@ redirect_from:
 </ul>
 </div>
 
-<div style="background-color: #f7f7f7; padding: 10px;">
+<div style="background-color: white; padding: 10px;">
 <h2>🧮 <a href="https://www.mathnasium.com/math-centers/northwood" style="text-decoration: none; color: inherit;">Mathnasium</a></h2>
 <i>Mathematics Instructor</i>
 <ul>
