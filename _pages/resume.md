@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 <nav>
-    <a href="../files/Resume.pdf" style="text-decoration: none; color: inherit;">[Resume]</a>
+    <a href="../files/resume_ka.pdf" style="text-decoration: none; color: inherit;">[Resume]</a>
 </nav>
 
