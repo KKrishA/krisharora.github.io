@@ -8,12 +8,21 @@ redirect_from:
 ---
 
 <hr style="border: 2px solid black;">
+
+<div style="background-color: #f7f7f7; padding: 10px;">
+<h2>🌐 <a href="https://aws.amazon.com/" style="text-decoration: none; color: inherit;">Amazon Web Services (AWS)</a></h2>
+<i>Software Development Intern</i>
+<ul>
+    <li>Incoming SDE Intern; Summer 2025</li>
+</ul>
+</div>
+
 <div style="background-color: white; padding: 10px;">
 <h2>📽️ <a href="https://gomomentus.com/" style="text-decoration: none; color: inherit;">Momentus Technologies</a></h2>
 <i>Product Manager Intern</i>
 <ul>
   <li>Utilized Pendo to analyze comprehensive financial & usage metrics for 12 core products, leveraging data-driven insights to enhance product functionalities and optimize development costs, resulting in a 25% increase in user-generated revenue</li>
-  <li>Identified and presented ticketing/registration as expansion opportunities, resulting in a 40% increase in user acquisition</li>
+  <li>Cleaned and visualized data using correlation heatmaps to detect outliers and underperforming features; implemented Linear Regression and Random Forest models to identify feature groupings for increased user satisfaction, driving a 35% increase in engagement through marketing targeted feature groups</li>
 </ul>
 </div>
 
@@ -21,7 +30,7 @@ redirect_from:
 <h2>🌐 <a href="https://gkadvisors.com/" style="text-decoration: none; color: inherit;">Global Key Advisors</a></h2>
 <i>Quantitative Analyst Intern</i>
 <ul>
-  <li>Engineered an NLP model through GESIM in analyzing trends in MD&A length analysis for 30,000 startup companies for stock price predictions; utilized sentiment analysis & readability scales for concise information clarity (85% accuracy)</li>
+  <li>Engineering an NLP model using GESIM in analyzing MD&A length analysis trends for 30,000 startup companies for stock price predictions; utilized sentiment analysis & readibility scales for concise information clarity (83% accuracy)</li>
   <li>Implemented an autonomous algorithm using Python and SQL to analyze company due-diligence scores and outcomes</li>
   <li>Compiled company success rate results into a comprehensive master database for enhanced data management/analysis</li>
 </ul>
